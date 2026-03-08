@@ -102,14 +102,14 @@ me.say_hi()
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=DhimanTarafdar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" />
-<img width="49%" src="https://streak-stats.demolab.com?user=DhimanTarafdar&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DhimanTarafdar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://streak-stats.demolab.com/?user=DhimanTarafdar&theme=tokyonight&hide_border=true" />
 
 </div>
 
 <div align="center">
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhimanTarafdar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhimanTarafdar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
@@ -119,7 +119,7 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=DhimanTarafdar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=DhimanTarafdar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" />
 
 </div>
 
