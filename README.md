@@ -52,9 +52,9 @@ me.say_hi()
 | **Supervised Learning** | Linear/Logistic/Polynomial Regression, SVM, KNN, Naive Bayes, MLP | ✅ Done |
 | **Ensemble Methods** | Random Forest, AdaBoost, Gradient Boosting, XGBoost | ✅ Done |
 | **Unsupervised Learning** | K-Means, DBSCAN, Hierarchical Clustering, PCA | ✅ Done |
-| 🚀 **Deployment** | Hugging Face Spaces + Gradio | ✅ Done |
-| 🏆 **Competitions** | Kaggle Competitions | ✅ Participated |
-| 🧠 **Deep Learning** | Perceptron, MLP, Math Intuition, PyTorch | 🔄 In Progress |
+| **Deployment** | Hugging Face Spaces + Gradio | ✅ Done |
+| **Competitions** | Kaggle Competitions | ✅ Participated |
+| **Deep Learning** | Perceptron, MLP, Math Intuition, PyTorch | 🔄 In Progress |
 
 </details>
 
