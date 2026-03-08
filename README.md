@@ -102,7 +102,7 @@ me.say_hi()
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DhimanTarafdar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Dhiman%20Tarafdar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Machine%20Learning%20Enthusiast%20%7C%20CSE%20Student%20%7C%20Deep%20Learning%20Explorer&descAlignY=55&descSize=16" />
 <img height="180em" src="https://streak-stats.demolab.com/?user=DhimanTarafdar&theme=tokyonight&hide_border=true" />
 
 </div>
