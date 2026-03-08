@@ -46,7 +46,7 @@ me.say_hi()
 
 | Stage | Topics Covered | Status |
 |-------|---------------|--------|
-| 🐍 **Python Foundations** | NumPy, Pandas, Seaborn, Matplotlib | ✅ Done |
+| **Python Foundations** | NumPy, Pandas, Seaborn, Matplotlib | ✅ Done |
 | 📊 **Statistics & Math** | Descriptive Stats, Probability, Distance Metrics | ✅ Done |
 | ⚙️ **Data Preprocessing** | Scaling, Encoding, Feature Engineering, EDA | ✅ Done |
 | 🤖 **Supervised Learning** | Linear/Logistic/Polynomial Regression, SVM, KNN, Naive Bayes, MLP | ✅ Done |
