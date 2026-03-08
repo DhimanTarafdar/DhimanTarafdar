@@ -21,12 +21,12 @@ class DhimanTarafdar:
         self.degree      = "B.Sc. Engineering in Computer Science & Engineering"
         self.year        = "3rd Year"
         self.focus       = ["Machine Learning", "Deep Learning", "Data Science"]
-        self.currently   = "Diving into Deep Learning with PyTorch 🔥"
+        self.currently   = "Diving into Deep Learning with PyTorch "
         self.learning    = ["Single & Multi Layer Perceptron", "MLP Math Intuition", "PyTorch"]
         self.web_skills  = ["HTML", "CSS", "Tailwind CSS", "JavaScript", "React", "Next.js", "MERN"]
         self.dsa         = "Practicing DSA (Striver's Sheet / Tech With Tim)"
         self.goal        = "Build impactful ML/DL projects & grow consistently"
-        self.consistency = "Every concept studied → pushed to GitHub 🚀"
+        self.consistency = "Every concept studied → pushed to GitHub "
 
     def say_hi(self):
         print("Thanks for visiting my profile! Let's build something amazing together.")
