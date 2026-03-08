@@ -101,12 +101,16 @@ me.say_hi()
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=DhimanTarafdar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img height="180" src="https://streak-stats.demolab.com/?user=DhimanTarafdar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DhimanTarafdar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://streak-stats.demolab.com/?user=DhimanTarafdar&theme=tokyonight&hide_border=true" />
+
 </div>
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhimanTarafdar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhimanTarafdar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
 </div>
 
 ---
@@ -114,7 +118,9 @@ me.say_hi()
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DhimanTarafdar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" alt="GitHub Trophies" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=DhimanTarafdar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" />
+
 </div>
 
 ---
